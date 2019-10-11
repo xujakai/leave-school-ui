@@ -12,7 +12,7 @@ export default function Footer() {
           <Logo />
         </div>
         <div className={styles.copyright}>
-          © 2019 Theme designed by
+          © 2019 System designed by
           {' '}
           <a
             href="http://www.topme.pro/"
